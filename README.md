@@ -1,2 +1,0 @@
-# PiperfyClone
-Created with CodeSandbox
