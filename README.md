@@ -1,8 +1,8 @@
 <h1 align="center">
   Piperfy Clone with React.JS
-  <br />
-  <img src="https://user-images.githubusercontent.com/49171033/70841733-83981380-1dfb-11ea-863a-d4de02603984.png" />
 </h1>
+<br />
+  <img src="https://user-images.githubusercontent.com/49171033/70841733-83981380-1dfb-11ea-863a-d4de02603984.png" />
 
 <p align="center">
    | <a href="#rocket-technologies">Techs</a> |
