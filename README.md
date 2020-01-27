@@ -14,6 +14,11 @@
 ## :rocket: Technologies
 
 -  [ReactJS](https://reactjs.org/)
+-  [Immer](https://github.com/immerjs/immer)
+-  [styled-components](https://www.styled-components.com/)
+-  [react-dnd ](https://react-dnd.github.io/react-dnd/about)
+-  [react-dnd-html5-backend](https://www.npmjs.com/package/react-dnd-html5-backend)
+-  [React-Icons](https://react-icons.netlify.com/)
 
 
 <br />
